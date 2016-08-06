@@ -63,11 +63,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\DestroyableWallScript.cs" />
-    <Compile Include="Assets\EnemyAIScript.cs" />
-    <Compile Include="Assets\HeroScript.cs" />
-    <Compile Include="Assets\InvisibleBlockScript.cs" />
+    <Compile Include="Assets\Scripts\CameraFollowScript.cs" />
+    <Compile Include="Assets\Scripts\DestroyableWallScript.cs" />
     <Compile Include="Assets\Scripts\DoNotSnap.cs" />
+    <Compile Include="Assets\Scripts\EnemyAIScript.cs" />
+    <Compile Include="Assets\Scripts\HeroScript.cs" />
+    <Compile Include="Assets\Scripts\InvisibleBlockScript.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
