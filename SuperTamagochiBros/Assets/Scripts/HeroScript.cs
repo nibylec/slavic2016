@@ -26,7 +26,6 @@ public class HeroScript : MonoBehaviour {
     void Update()
     {
         grounded = Physics2D.Linecast(transform.position, groundCheck.position, 1 << LayerMask.NameToLayer("Ground"));
-        Debug.Log(grounded);
         if (Input.GetButtonDown("Jump") && grounded)
         {
             jump = true;
@@ -60,6 +59,11 @@ public class HeroScript : MonoBehaviour {
         }
     }
 
+    public void BounceOffEnemy()
+    {
+        anim.SetTrigger("Jump");
+        rb2d.AddForce(new Vector2(0f, 2.0f*jumpForce));
+    }
 
     void Flip()
     {
