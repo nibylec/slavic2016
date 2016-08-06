@@ -69,6 +69,7 @@
     <Compile Include="Assets\Scripts\EnemyAIScript.cs" />
     <Compile Include="Assets\Scripts\HeroScript.cs" />
     <Compile Include="Assets\Scripts\InvisibleBlockScript.cs" />
+    <Compile Include="Assets\Scripts\TitleScreenScript.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
