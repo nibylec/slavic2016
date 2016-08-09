@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: c581466f98f40b7458eb9f84b676d226
+timeCreated: 1470509830
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: enemy_01_0
+    21300002: enemy_01_1
+    21300004: enemy_01_2
+    21300006: enemy_01_3
+    21300008: enemy_01_4
+    21300010: enemy_01_5
+    21300012: enemy_01_6
+    21300014: enemy_01_7
+    21300016: enemy_01_8
+    21300018: enemy_01_9
+    21300020: enemy_01_10
+    21300022: enemy_01_11
+    21300024: enemy_01_12
+    21300026: enemy_01_13
+    21300028: enemy_01_14
+    21300030: enemy_01_15
+    21300032: enemy_01_16
+    21300034: enemy_01_17
+    21300036: enemy_01_18
+    21300038: enemy_01_19
+    21300040: enemy_01_20
+    21300042: enemy_01_21
+    21300044: enemy_01_22
+    21300046: enemy_01_23
+    21300048: enemy_01_24
+    21300050: enemy_01_25
+    21300052: enemy_01_26
+    21300054: enemy_01_27
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: enemy_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -4}
+        - {x: -6, y: -4}
+        - {x: -10, y: -12}
+        - {x: -10, y: -31}
+        - {x: -9, y: -32}
+        - {x: 12, y: -32}
+        - {x: 13, y: -30}
+        - {x: 13, y: -10}
+        - {x: 7, y: -5}
+    - name: enemy_01_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -4}
+        - {x: -10, y: -7}
+        - {x: -10, y: -27}
+        - {x: -9, y: -32}
+        - {x: 11, y: -32}
+        - {x: 13, y: -31}
+        - {x: 13, y: -15}
+        - {x: 10, y: -4}
+    - name: enemy_01_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -4}
+        - {x: -10, y: -7}
+        - {x: -10, y: -32}
+        - {x: 12, y: -32}
+        - {x: 13, y: -30}
+        - {x: 13, y: -8}
+        - {x: 8, y: -4}
+    - name: enemy_01_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -4}
+        - {x: -6, y: -4}
+        - {x: -10, y: -12}
+        - {x: -10, y: -31}
+        - {x: -9, y: -32}
+        - {x: 12, y: -32}
+        - {x: 13, y: -30}
+        - {x: 13, y: -10}
+        - {x: 7, y: -5}
+    - name: enemy_01_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -4}
+        - {x: -6, y: -4}
+        - {x: -10, y: -12}
+        - {x: -10, y: -31}
+        - {x: -9, y: -32}
+        - {x: 12, y: -32}
+        - {x: 13, y: -30}
+        - {x: 13, y: -10}
+        - {x: 7, y: -5}
+    - name: enemy_01_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -4}
+        - {x: -6, y: -4}
+        - {x: -10, y: -12}
+        - {x: -10, y: -31}
+        - {x: -9, y: -32}
+        - {x: 12, y: -32}
+        - {x: 13, y: -30}
+        - {x: 13, y: -10}
+        - {x: 7, y: -5}
+    - name: enemy_01_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -4}
+        - {x: -10, y: -7}
+        - {x: -10, y: -29}
+        - {x: -7, y: -32}
+        - {x: 10, y: -32}
+        - {x: 13, y: -31}
+        - {x: 13, y: -10}
+        - {x: 7, y: -4}
+    - name: enemy_01_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -4}
+        - {x: -2, y: -4}
+        - {x: -10, y: -13}
+        - {x: -10, y: -29}
+        - {x: -8, y: -32}
+        - {x: 12, y: -32}
+        - {x: 13, y: -30}
+        - {x: 13, y: -10}
+        - {x: 7, y: -5}
+    - name: enemy_01_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -4}
+        - {x: -6, y: -4}
+        - {x: -10, y: -12}
+        - {x: -10, y: -31}
+        - {x: -9, y: -32}
+        - {x: 12, y: -32}
+        - {x: 13, y: -30}
+        - {x: 13, y: -10}
+        - {x: 7, y: -5}
+    - name: enemy_01_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -4}
+        - {x: -6, y: -4}
+        - {x: -10, y: -12}
+        - {x: -10, y: -31}
+        - {x: -9, y: -32}
+        - {x: 12, y: -32}
+        - {x: 13, y: -30}
+        - {x: 13, y: -10}
+        - {x: 7, y: -5}
+    - name: enemy_01_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -4}
+        - {x: -6, y: -4}
+        - {x: -10, y: -12}
+        - {x: -10, y: -31}
+        - {x: -9, y: -32}
+        - {x: 12, y: -32}
+        - {x: 13, y: -30}
+        - {x: 13, y: -10}
+        - {x: 7, y: -5}
+    - name: enemy_01_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -4}
+        - {x: -6, y: -4}
+        - {x: -10, y: -12}
+        - {x: -10, y: -31}
+        - {x: -9, y: -32}
+        - {x: 12, y: -32}
+        - {x: 13, y: -30}
+        - {x: 13, y: -10}
+        - {x: 7, y: -5}
+    - name: enemy_01_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -4}
+        - {x: -6, y: -4}
+        - {x: -10, y: -12}
+        - {x: -10, y: -31}
+        - {x: -9, y: -32}
+        - {x: 12, y: -32}
+        - {x: 13, y: -30}
+        - {x: 13, y: -10}
+        - {x: 7, y: -5}
+    - name: enemy_01_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -4}
+        - {x: -4, y: -4}
+        - {x: -10, y: -11}
+        - {x: -10, y: -29}
+        - {x: -7, y: -32}
+        - {x: 10, y: -32}
+        - {x: 13, y: -31}
+        - {x: 13, y: -14}
+        - {x: 12, y: -9}
+    - name: enemy_01_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -2}
+        - {x: -11, y: -3}
+        - {x: -11, y: -29}
+        - {x: -8, y: -32}
+        - {x: 9, y: -32}
+        - {x: 13, y: -29}
+        - {x: 13, y: -7}
+        - {x: 7, y: -2}
+    - name: enemy_01_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 4}
+        - {x: -15, y: -1}
+        - {x: -15, y: -22}
+        - {x: -8, y: -32}
+        - {x: 11, y: -32}
+        - {x: 16, y: -22}
+        - {x: 16, y: 2}
+        - {x: 10, y: 4}
+    - name: enemy_01_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 8}
+        - {x: -7, y: 7}
+        - {x: -15, y: 1}
+        - {x: -15, y: -16}
+        - {x: -10, y: -32}
+        - {x: 11, y: -32}
+        - {x: 18, y: -18}
+        - {x: 18, y: 6}
+        - {x: 9, y: 8}
+    - name: enemy_01_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 9}
+        - {x: -14, y: 8}
+        - {x: -14, y: -23}
+        - {x: -13, y: -27}
+        - {x: -8, y: -32}
+        - {x: 12, y: -32}
+        - {x: 19, y: -22}
+        - {x: 19, y: 1}
+        - {x: 16, y: 9}
+    - name: enemy_01_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 10}
+        - {x: -8, y: 10}
+        - {x: -13, y: 7}
+        - {x: -13, y: -27}
+        - {x: -12, y: -32}
+        - {x: 11, y: -32}
+        - {x: 16, y: -30}
+        - {x: 16, y: 5}
+        - {x: 12, y: 9}
+    - name: enemy_01_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -4}
+        - {x: -6, y: -4}
+        - {x: -10, y: -12}
+        - {x: -10, y: -31}
+        - {x: -9, y: -32}
+        - {x: 12, y: -32}
+        - {x: 13, y: -30}
+        - {x: 13, y: -10}
+        - {x: 7, y: -5}
+      - - {x: 9, y: 11}
+        - {x: -6, y: 11}
+        - {x: -10, y: 6}
+        - {x: -10, y: -4}
+        - {x: -9, y: -8}
+        - {x: 14, y: -8}
+        - {x: 14, y: 7}
+        - {x: 13, y: 10}
+    - name: enemy_01_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -4}
+        - {x: -6, y: -4}
+        - {x: -10, y: -12}
+        - {x: -10, y: -31}
+        - {x: -9, y: -32}
+        - {x: 12, y: -32}
+        - {x: 13, y: -30}
+        - {x: 13, y: -10}
+        - {x: 7, y: -5}
+      - - {x: 0, y: 13}
+        - {x: -10, y: 7}
+        - {x: -10, y: -2}
+        - {x: 12, y: -2}
+        - {x: 14, y: 0}
+        - {x: 14, y: 3}
+        - {x: 9, y: 13}
+    - name: enemy_01_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -4}
+        - {x: -6, y: -4}
+        - {x: -10, y: -12}
+        - {x: -10, y: -31}
+        - {x: -9, y: -32}
+        - {x: 12, y: -32}
+        - {x: 13, y: -30}
+        - {x: 13, y: -10}
+        - {x: 7, y: -5}
+    - name: enemy_01_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -4}
+        - {x: -6, y: -4}
+        - {x: -10, y: -12}
+        - {x: -10, y: -31}
+        - {x: -9, y: -32}
+        - {x: 12, y: -32}
+        - {x: 13, y: -30}
+        - {x: 13, y: -10}
+        - {x: 7, y: -5}
+    - name: enemy_01_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -4}
+        - {x: -6, y: -4}
+        - {x: -10, y: -12}
+        - {x: -10, y: -31}
+        - {x: -9, y: -32}
+        - {x: 12, y: -32}
+        - {x: 13, y: -30}
+        - {x: 13, y: -10}
+        - {x: 7, y: -5}
+    - name: enemy_01_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -4}
+        - {x: -6, y: -4}
+        - {x: -10, y: -12}
+        - {x: -10, y: -31}
+        - {x: -9, y: -32}
+        - {x: 12, y: -32}
+        - {x: 13, y: -30}
+        - {x: 13, y: -10}
+        - {x: 7, y: -5}
+    - name: enemy_01_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -4}
+        - {x: -6, y: -4}
+        - {x: -10, y: -12}
+        - {x: -10, y: -31}
+        - {x: -9, y: -32}
+        - {x: 12, y: -32}
+        - {x: 13, y: -30}
+        - {x: 13, y: -10}
+        - {x: 7, y: -5}
+    - name: enemy_01_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -10}
+        - {x: -13, y: -17}
+        - {x: -15, y: -26}
+        - {x: -15, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: -19}
+        - {x: 7, y: -10}
+    - name: enemy_01_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -31}
+        - {x: -14, y: -32}
+        - {x: 16, y: -32}
+        - {x: 15, y: -28}
+        - {x: 8, y: -25}
+        - {x: 3, y: -25}
+        - {x: -13, y: -29}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
